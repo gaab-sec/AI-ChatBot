@@ -1,8 +1,8 @@
 # ChatBot com IA / ChatBot with AI
 
-Este projeto implementa um chatbot utilizando a biblioteca Langchain e o modelo de linguagem da Groq. Este projeto foi inspirado no tutorial do site da [Langchain](https://python.langchain.com/docs/tutorials/chatbot/). O objetivo principal deste projeto foi aprender e entender como funcionam os fluxos de linguagem, a integração com modelos de IA e o gerenciamento do histórico de conversa. O chatbot foi implementado com o modelo ChatGroq, que permite traduzir as respostas para o idioma que o usuário utilizar, e, caso o idioma seja desconhecido, o chatbot responderá em português (pt-br).
+Este projeto implementa um chatbot utilizando a biblioteca Langchain e o modelo de linguagem da Groq. Este projeto foi inspirado no tutorial do site da [Langchain](https://python.langchain.com/docs/tutorials/chatbot/). O objetivo principal deste projeto foi aprender e entender como funcionam os fluxos de linguagem, a integração com modelos de IA e o gerenciamento do histórico de conversa.
 
-This project implements a chatbot using the Langchain library and the Groq language model. This project was inspired by the tutorial on the [Langchain](https://python.langchain.com/docs/tutorials/chatbot/) website. The main goal of this project was to learn and understand how language flows work, how to integrate with AI models, and how to manage conversation history. The chatbot was implemented with the ChatGroq model, which allows translating responses into the language used by the user, and in case the language is unknown, the chatbot will respond in Portuguese (pt-br).
+This project implements a chatbot using the Langchain library and the Groq language model. This project was inspired by the tutorial on the [Langchain](https://python.langchain.com/docs/tutorials/chatbot/) website. The main goal of this project was to learn and understand how language flows work, how to integrate with AI models, and how to manage conversation history.
 
 ## Requisitos / Requirements
 
